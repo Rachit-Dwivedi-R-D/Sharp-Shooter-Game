@@ -31,11 +31,11 @@ Can you survive the robotic assault and become the ultimate sharpshooter?
 
 ![Screenshot 2025-05-05 015643](https://github.com/user-attachments/assets/8d9850c9-5d9d-4a59-b860-b61ba6c2ab86)
 
--- Sniper Rifle (5 Bullets)-
+-- Sniper Rifle Shoot (5 Bullets)-
 
 ![Screenshot 2025-05-05 015620](https://github.com/user-attachments/assets/99a9d7b7-500f-432a-85f6-2dfc891dfd00)
 
--- with Builtin Zoom Vignette - 
+-- Sniper Rifle with Built in Zoom Vignette - 
 
 ![Screenshot 2025-05-05 015450](https://github.com/user-attachments/assets/04752c21-1692-4431-8d44-b3b9b275799b)
 
@@ -45,7 +45,7 @@ Can you survive the robotic assault and become the ultimate sharpshooter?
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/KitchenChaos.git
+   git clone https://github.com/Rachit-Dwivedi-R-D/Sharp-Shooter-Game.git
    ```
 2. Open the Unity Editor.
 3. In Unity, go to File > Open Project and select the Sharp Shooter folder.
@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/85d81ce1-ca4a-4d38-b7aa-4d487c1b8a3d
 ---
 
 ## 🌟 Credits
-- **Special Thanks:** GameDev.tv Communit, Open Asset Contributors
+- **Special Thanks:** GameDev.tv Community, Open Asset Contributors
 
 ---
 
